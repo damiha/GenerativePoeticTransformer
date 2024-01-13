@@ -1,0 +1,315 @@
+
+
+Base model
+
+4 mb of german novels
+
+20 min of training
+
+1. train loss = 1.3710094521664151, val loss = 1.7587441451081605
+
+---------------
+
+Prompt: Das Leben ist
+
+Answer: 
+
+schon gesicht, er fürchtete er sich das Gelübde eines Fürbitters zu einer unter dem zweiten Tage bewirkt hatte, selbst für eine das Freie, und sich mit nicht zu sein.«
+    »Sie sich an«,
+rief zog die König
+wird es wie im Hause
+Rosse dabei dieser Bekenner schwachend um sich und schaute den andern und in
+dem Hause zu dem Baumstand des Klosters die Kränkung drang
+es wurde wie klein durch Burg gelähmt, um dich beklagen, daß der Hochmeister.«
+    »Der Doktor saß auf der Höhe soll
+möglich nur das Land liegt und entbehrst die Schuld Anritt in
+die Berge zur Streite.
+Seine Gesellschaftes willig erkennen, daß die Freundschaft dem Lande. Die Stuben
+aber häufig an den
+Schlafgemach war, daß die Männer des Ganzens hat die Wege aus den Stand hinausgeschränkt aus der Stadt. Und der Mann
+trat und ihr Herr, Ihr selber den ersten Turm zu kaufen wurden, so ist wer weit dem meinen Kerker eines Maches, seine Knaben
+sich und hielt sich in dem Godwin der
+Freund gebietend besonderen Pfleger auf seine Reise de
+
+=----------------------------
+
+Prompt: Der Sinn des Lebens ist
+
+Answer:
+
+uns vielleicht gegen jeden
+Schatz zu mir deinen Mut dich, wenn wenig vor einem Kuche zurück, die wir mir nicht zusammen, und der Weise durch mich den Bruder mit dem
+Herrn zu den Boden des Königs, den die
+Thüringe bei manchen Thüringen des Dorfes kümmerte die
+Trinkhorner in der Nähe des
+Himmlischen Hennergeschworen das große
+Hände auf der Sachsenkung
+an dem Talar, um solche Waffen der
+Führer, dem Getreue des Mönches sah.
+    »Wir schenken willen dir, und wenn ich die Heiligen meiner Hand in den Marktrage abwärts gerötet hatten; der Bruder im Holzrandlosen Vorsichtigkeit. Auch im Turme erwartet, nicht Georg gemacht hat.«
+    »Nur Vater, wenn es unser Unglücklicher, flüsterte ich zu
+denken, daß der Alte uns aber
+sind die Kunst, die mir allerdings aus ihrem Gefährten, daß du sie durch die schweren Gesellen des Fremden schalten.
+    Als Ingo auf seinen Rücken kein Schüler mit den Mannen die Hand, und
+Lutz schmäht, mußte sich über die
+Fremden vor dem wirbelten Kriegsmann und die Hülle des K
+
+Fine tuned model:
+
+660 kb of german poetry
+
+2 min of training
+
+1. train loss = 1.2587973800017385, val loss = 1.3069334620627286
+
+-----------------------
+
+Prompt: Der Sommer ist
+
+Answer:
+
+nicht mehr.
+
+    Kein Vater, komm mir das alte Zweigen in den schmalen Wand
+    Und tränen sie weit,
+Und wir denn weit in meinem letzten Ausgang der Inbruchigt, und seine allein.
+    Ich soll nie deine Hände flüstern,
+    Die sind die Lösuchen, die man keine Mandolie.
+    Sei still in dir verworrnet hingenische.
+
+    Wird es starb. --
+Ein schwarzes Schwert!
+
+
+
+Der Zauber saß auf sich selbst überwinden,
+und wie er surrte
+    Drei Berling.
+
+    Das moosch den weißen Scharten abstäubt;
+    Die rasenden Meere braten.
+
+
+Aus den sinden kranken.
+    Und meines heiligen Schäume dir sanften meine Schaukelten sich im Leben müssen.
+
+
+
+
+
+DAS EINER FRÖDE DIE
+
+
+Wie einer Abend Wolken,
+und die Gatte der Zeiten
+    von den Scherben 1919. Paar.
+
+
+    [Illustration: Der Frauenzweig noch von allen Türen.
+
+    Ein stiller Stimmes näher jeden Winken, Unrasmenisch,
+Dann geht der Taillefer
+Tanznachts getief in feuchtendem Schnee.
+    Die Augen haben auf seinen Augenlied, da mit Steiner entfernten:
+
+Ich weiß
+
+
+--------------------
+
+Prompt: Der Sinn des Lebens ist
+
+Answer:
+
+das des Lebens entflanzt, die mich für sie.
+
+
+Was hat Goldgewirbt der Städte
+    Deine neue Seele fahrt.
+
+
+
+
+GESTABEN
+
+
+
+
+Du hast und alle Leidenlebensblut.
+
+Schaue dankt der Tag wie Grab.
+
+Wo die aus dem linden Mainacht.
+
+Und Mode, zeh ich sein Gefühl der Hoffnung glittert eine schwere Hand.
+
+    Nicht mehr als einsamen Frau des Lebens ersteigen Leib.
+
+
+
+
+BEI KRÖELCHEN
+
+
+GANGEL
+
+
+Gondelnd ist noch dieses für seine Weile war,
+    Der weiche Feder liebte
+über Abendscheine statt.
+
+    Sein Heimatland vorbei.
+
+
+
+
+Wie wie ein Mund und blitz und sahst den wir frohnen als wie ein weiches Land
+    Sie wartet den Mond des Lebens Schlehden.
+
+
+
+
+
+SER LARTE S
+
+
+Großes Weltges tönt die Welt,
+    Und deine Augen gleichen
+    Gott seine schweigend Rosen
+
+Und die Gewässer rauschte noch -- und fiel bei meinem Schloß nach den Himmel,
+    Erkennen auf hohler Stirnen.
+
+
+
+
+ARIEDSENE PHAdre!  Es liegt' es seinen bleichen
+    Und wie ein Liebchen ab.
+
+Ich fang eine paarig
+in den Strom am Grab.
+
+Tuning 2
+
+1. train loss = 1.0988311027334468, val loss = 1.3883833562102272
+
+-------------
+
+Prompt: Der Sinn des Lebens ist
+
+fort.
+
+    Ich liebe das Leben, das ein Lenz ist ein geliebtes Auge und kaum.
+
+
+
+
+IX
+
+Wir trugen unter Schlummer noch das Blut,
+    Aus der seidenen Kreisen:
+    Wie Nacht er aus nassem Spiegelbild kam,
+    Was mein Lied ist in weiter Barone
+und schaut, und der Schritt über ihm leise Arme
+und sinkt die Luft und die Bäume,
+    Allersteine Gebärde
+    Regen meine Lüge.
+    Ich trüber finde bloß.
+
+Ihr köstliches Leben, du holderweinseln
+    Sprach man die dunkle Laut.
+    Ich schlief ist _ein dieser Trug"                                      10
+Er trägt allein in mein Land mir in deinem Arme werder auf,                                                                                          50
+Der Brunnen zu verrückt,
+           seine Seele wie ich sterben, still, warten, warf er auf ayster Verkündeten der Tälersphinen
+    Auf seiner Regen Hände,
+    Wo viele kleine Gärten
+Und dann wieder niemals hinweg!
+
+-----------------------------
+
+Prompt: Der Sinn des Lebens ist
+
+Answer:
+
+*       *
+
+37. DER JUGENDE KAPELLOS
+
+Ein Duft von einem Rachen
+    Wie die Wand im Glatt des Amphitzes
+    Schwarze Gewänder,
+    Und bin doch von den Türen, welche sich in die Zeit,
+Und ich hörte dem März,
+    Nacht einmal, das war es tagt ein alter Gram verfluchender Wesen spiegeln
+    Im Sturm zerstieg,
+die sprach das Licht,
+    Und worden silbern
+    Wie schöner Magd!
+    Die Freundschaft gelerntes Tage
+    Fanden die krumme Glockentiefe.
+
+    Wie sie mich niederschauen
+    Und ging ich durch die aller Trauer glänzt
+    Und eine Spitze stille!                      165
+Die Augen und Wiesenke,
+der weiße Mond und deine Nächte
+mir das Arbeit der Seele tief,
+die seit uns all,
+    Daß wir vistockenbräuner hergessen
+durch zwei Glanz, die ihr ruht in dem Schnee
+    Im wunderlichen Berührung
+beides Wasser durch die Dämmrung,
+Und stand in der ewigen Brüste
+    Ein Weinen klangen,
+aus dem dunkeln Lauten
+    Und doch ist das dein Heimatloses zu stillen,
+    Draußen sich in große
+    
+--------------------
+
+Prompt: Du und ich
+
+Answer:
+
+, das dir entferne dich so gerne
+                                                                 20
+
+Ein Schwellen Wolkenquillten,
+Das kühle Glückliche umschlungner,
+    Und immer wieder schwer, in deinem Wehn.
+
+
+
+
+BEI JÜNGLINGEHORE
+
+
+I
+
+
+Hob Christ
+
+Der Morgen ruht geworden mit dem hellen Augen,
+    Da staunende Seele
+    Mit leisem Kies verging er nicht begriffen!
+    Ich bin der Liebe Lauten
+    Sich der Nische.
+    Auf der ewigen Traum.
+
+    Aber steht ein Maiens von Frühling die Augen pochte
+mit bleichem Schritt.
+
+    Die Sonne verhallt,
+    Wenn ich die Göttin getrunken in den Erden gehn,
+Die sie zu dem sich immer umwillst,
+    O Gärten niemals das sonderbare Lieder wallen
+    Brennen und die Sonne gebrannt
+liegt es klein,
+    Ein Page spiegeln die Form in die Nacht.
+
+Da fiel der Seele graut,
+    Die müßte er wieder auf dein schönes Heiliges Licht,
+    Wie eine vom Wachsen auf einmal stand ihr Traum noch Rose auf den Blick
+    Mit silbernem Traum das Gerüste?--
+
